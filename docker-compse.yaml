@@ -3,3 +3,4 @@ wordpress:
     - MYSQL_DATABASE=wordpress
     - MYSQL_USER=wordpress
     - MYSQL_PASSWORD=wordpress
+    - MYSQL_PASSWORD=a_verylong_complicated_12312AApassword@#$#@#!111
